@@ -1,12 +1,12 @@
 # Lucky Crab 🦀
 
-Um curso de Godot usando a a linguagem de programação Rust como linguagem de extensão.
+Um curso de Godot usando a linguagem de programação Rust como linguagem de extensão.
 
 ## Sobre este curso
 
 Se você sempre quis fazer seus próprios jogos com as ferramentas mais modernas do mercado, prioriza o desenvolvimento __open-source__, e valoriza um código rápido, mantenível, seguro e elegante, então esse curso **é para você**.
 
-Apresentamos o curso **Lucky Crab**, dedicado a ensinar o [__Godot Game Engine__](https://godotengine.org/), um 'motor de jogo', que permite criar jogos 2D e 3D, cross-plataforma, grátis e open-source. Além disso, estenderemos as funcionalidades do Godot, usando a [linguagem de programação Rust](https://www.rust-lang.org/), uma linguagem de sistemas, focada em construir softwares eficientes e confiaveis.
+Apresentamos o curso **Lucky Crab**, dedicado a ensinar o [__Godot Game Engine__](https://godotengine.org/), um 'motor de jogo', que permite criar jogos 2D e 3D, cross-plataforma, grátis e open-source. Além disso, estenderemos as funcionalidades do Godot, usando a [linguagem de programação Rust](https://www.rust-lang.org/), uma linguagem de sistemas, focada em construir softwares eficientes e confiaveís.
 
 ### Requisitos
 
@@ -26,7 +26,7 @@ Encerraremos com a produção de um jogo, para aplicar tudo que aprendemos!
 
 ## De onde vem o nome do projeto?
 
-**Lucky** é um dos personagens da peça teatral [En attendant Godot](https://pt.wikipedia.org/wiki/En_attendant_Godot), que dá nome ao famoso _game engine_. Crab refere-se ao mascote **Ferris** do Rust, que é um caranguiejo.
+**Lucky** é um dos personagens da peça teatral [En attendant Godot](https://pt.wikipedia.org/wiki/En_attendant_Godot), que dá nome ao famoso _game engine_. Crab refere-se ao mascote **Ferris** do Rust, que é um carangueijo.
 
 ## Dúvidas e Ajuda
 
