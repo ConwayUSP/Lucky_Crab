@@ -6,9 +6,9 @@ Um curso de Godot usando a linguagem de programação Rust como linguagem de ext
 
 Este é um curso feito e oferecido pelo Conway: entidade de computação gráfica e desenvolvimento de jogos da USP-leste.
 
-Se você sempre quis fazer seus próprios jogos com as ferramentas mais modernas do mercado, prioriza o desenvolvimento __open-source__, e valoriza um código rápido, mantenível, seguro e elegante, então esse curso **é para você**.
+Se você sempre quis fazer seus próprios jogos com as ferramentas mais modernas do mercado, prioriza o desenvolvimento __open-source__, e valoriza um código rápido, manutenível, seguro e elegante, então esse curso **é para você**.
 
-Apresentamos o curso **Lucky Crab**, dedicado a ensinar o [__Godot Game Engine__](https://godotengine.org/), um 'motor de jogo', que permite criar jogos 2D e 3D, cross-plataforma, grátis e open-source. Além disso, estenderemos as funcionalidades do Godot usando a [linguagem de programação Rust](https://www.rust-lang.org/), uma linguagem de sistemas focada em construir softwares eficientes e confiaveís.
+Apresentamos o curso **Lucky Crab**, dedicado a ensinar o [__Godot Game Engine__](https://godotengine.org/), um 'motor de jogo', que permite criar jogos 2D e 3D, cross-plataforma, grátis e open-source. Além disso, estenderemos as funcionalidades do Godot usando a [linguagem de programação Rust](https://www.rust-lang.org/), uma linguagem de sistemas focada em construir softwares eficientes e confiáveis.
 
 ### Requisitos
 
@@ -18,7 +18,7 @@ Fora isso, nada além da sua força de vontade será necessário! Guiaremos voc�
 
 ### O que vai ser ensinado?
 
-Primeiramente, começaremos com os conceitos principais da linguagem Rust. Variávies e tipos, bem como especificidades da linguagem, só para deixar por dentro aqueles que estão no seu primeiro contato.
+Primeiramente, começaremos com os conceitos principais da linguagem Rust. Variáveis e tipos, bem como especificidades da linguagem, só para deixar por dentro aqueles que estão no seu primeiro contato.
 
 Depois, prosseguiremos para o __Godot Engine__, a mais poderosa ferramente de criação de jogos, faremos um guia pela interface e te ambientaremos no editor.
 
@@ -28,7 +28,7 @@ Por fim, encerraremos com a produção de um jogo, para aplicar tudo que aprende
 
 ## De onde vem o nome do projeto?
 
-**Lucky** é um dos personagens da peça teatral [En attendant Godot](https://pt.wikipedia.org/wiki/En_attendant_Godot), que dá nome ao famoso _game engine_. Crab refere-se ao mascote **Ferris** do Rust, que é um carangueijo.
+**Lucky** é um dos personagens da peça teatral [En attendant Godot](https://pt.wikipedia.org/wiki/En_attendant_Godot), que dá nome ao famoso _game engine_. Crab refere-se ao mascote **Ferris** do Rust, que é um caranguejo.
 
 ## Dúvidas e Ajuda
 
